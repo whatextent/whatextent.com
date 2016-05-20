@@ -7,7 +7,11 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://whatextent.com"><img src="{{ base_path }}/images/logo-we.png"/></a></li>
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">{{ site.nav_title }}</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <!--<li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">{{ site.nav_title }}</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>//-->
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">Provision</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">Active Sports</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">Mass Media</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">Talk</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
