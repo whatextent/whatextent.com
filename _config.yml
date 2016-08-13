@@ -48,6 +48,20 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# Default Global Settings
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      path: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

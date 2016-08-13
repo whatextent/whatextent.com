@@ -48,6 +48,20 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# Default Global Settings
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      path: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -84,7 +98,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Project WHat Extent"
+  name             : "Project What Extent"
   avatar           : "bio-we-200x200.png"
   bio              : "Media. Empowering. Community."
   location         : "San Jose, California"
@@ -94,12 +108,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : whatextent
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : whatextent
   lastfm           :
   linkedin         :
   pinterest        :
@@ -107,7 +121,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : whatextent
   vine             :
   weibo            :
   xing             :
