@@ -4,7 +4,13 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}"><img src="{{ base_path }}/assets/images/logo/logo-we.png"/></a></li>
+          <!--<li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/"><font style="color:#000000;">{{ site.nav_title }}</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>//-->
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://weactivesports.com/"><font style="color:#000000;">Active Sports</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://we.church/"><font style="color:#000000;">Church</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://wemassmedia.com/"><font style="color:#000000;">Mass Media</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://weprovision.com/"><font style="color:#000000;">Provision</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://wetalkbroadcast.com/"><font style="color:#000000;">Talk</font><font style="font-family:Oswald;color:#ec2027;">.</font></a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
