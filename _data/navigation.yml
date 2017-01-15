@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,26 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# documentation links
+about:
+  - title: "Executive Team"
+    children:
+      - title: "<strong>CEO</strong> Justin Too"
+        url: /about/justin-too
+  - title: "<a href=\"/about/board-of-directors\">Board of Directors"
+    children:
+      - title: "<strong>Chairman</strong> Mike Brock"
+        url: /about/mike-brock
+      - title: "<strong>Director</strong> Debbie Hudson"
+        url: /about/debbie-hudson
+      - title: "<strong>Director</strong> Greg Brown"
+        url: /about/greg-brown
+      - title: "<strong>Director</strong> JR Gamez"
+        url: /about/jr-gamez
+      - title: "<strong>Director</strong> Justin Too"
+        url: /about/justin-too
+      - title: "<strong>Director</strong> Micaiah Irmler"
+        url: /about/micaiah-irmler
+      - title: "<strong>Director</strong> Natessa Martinez"
+        url: /about/natessa-martinez
