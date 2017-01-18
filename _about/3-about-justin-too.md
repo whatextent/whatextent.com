@@ -48,7 +48,7 @@ gallery-raam:
 [Justin Too](http://justintoo.com) is the visionary founder of [Project What Extent Inc.](http://whatextent.com) and humbly serves as the President and Chief Executive Officer.
 {: .text-justify}
 
-![First Board Dinner of Project What Extent](/assets/images/about/team/board-of-directors/justin-too/board-dinner.jpg){: .align-center}
+![First Board Dinner of Project What Extent]({{ "/assets/images/about/team/board-of-directors/justin-too/board-dinner.jpg" | absolute_url }}){: .align-center}
 
 [Justin](https://www.linkedin.com/in/justintoo) is an ultra-endurance Christian leader – fueled by [Luke 12:48](https://www.biblegateway.com/passage/?search=Luke+12%3A48) – ecclesiastical social entrepreneur, technical project manager, software developer, and creative media professional.
 {: .text-justify}

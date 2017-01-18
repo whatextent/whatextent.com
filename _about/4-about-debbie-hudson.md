@@ -22,8 +22,6 @@ tags:
 
 {% include base_path %}
 
-Debbie Hudson serves as a member of our Board of Directors.
+[Debbie Hudson]({{ "/about/debbie-hudson" | absolute_url }}) currently serves as a member of our [Board of Directors]({{ "/about/board-of-directors" | absolute_url }}).
 
-She
-
-Debbie currently serves as
+Debbie is the founding principal of [Legacy Christian School](http://www.mylegacyschool.com/) in San Jose, California. From the playground to the classroom, Legacy is helping families discover new and better ways to do the things they love with the people they love.

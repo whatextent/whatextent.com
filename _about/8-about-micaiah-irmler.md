@@ -22,8 +22,8 @@ tags:
 
 {% include base_path %}
 
-Micaiah Irmler serves as a member of our Board of Directors.
+[Micaiah Irmler]({{ "/about/micaiah-irmler" | absolute_url }}) currently serves as a member of our [Board of Directors]({{ "/about/board-of-directors" | absolute_url }}).
 
-He
+Micaiah grew up in a pastor's family in Fresno, California. At the age of 14, he trusted Christ as his personal Lord and Savior. He felt the Lord calling him into full-time ministry during his high school years.
 
-Micaiah currently serves as
+Pastor Micaiah received his ministerial training from West Coast Baptist College where he also met his lovely wife, Jane Anne. Together, Pastor Micaiah and Jane served at Liberty Baptist Church in San Jose before God called them to plant [Southridge Church](http://southridgesanjose.com/).

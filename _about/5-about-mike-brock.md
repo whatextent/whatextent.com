@@ -23,8 +23,8 @@ tags:
 
 {% include base_path %}
 
-Mike Brock serves as the Chairman of our Board of Directors.
+[Mike Brock]({{ "/about/mike-brock" | absolute_url }}) currently serves as the Chairman of our [Board of Directors]({{ "/about/board-of-directors" | absolute_url }}).
 
 He is an influential leader known for his strong commitment to inspiring life and community transformation in the areas of social justice and faith. He encourages faith leaders to engage in robust solutions for their city's most pressing issues. He thrives in innovating systemic change models, quantifying outcomes and scaling operations.
 
-Mike currently serves as the Chief Strategy Officer for [Transforming the Bay with Christ (TBC)](http://www.tbc.city/).
+Mike is the Chief Strategy Officer for [Transforming the Bay with Christ (TBC)](http://www.tbc.city/).
