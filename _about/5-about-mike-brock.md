@@ -4,8 +4,8 @@ excerpt: "Chairman of the Board of Directors, currently serving as the Chief Str
 permalink: /about/mike-brock/
 author_profile: false
 header:
-  image: /assets/images/about/team/mike-brock/cover-mike-brock.jpg
-  teaser: /assets/images/about/team/mike-brock/teaser-mike-brock.jpg
+  image: /assets/images/about/team/board-of-directors/mike-brock/cover-mike-brock.jpg
+  teaser: /assets/images/about/team/board-of-directors/mike-brock/teaser-mike-brock.jpg
   caption: "Mike Brock - Chairman of the Board"
 categories:
   - Team

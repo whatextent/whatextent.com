@@ -4,8 +4,8 @@ excerpt: "Member of the Board of Directors, currently serving ..."
 permalink: /about/debbie-hudson/
 author_profile: false
 header:
-  image: /assets/images/about/team/debbie-hudson/cover-debbie-hudson.jpg
-  teaser: /assets/images/about/team/debbie-hudson/teaser-debbie-hudson.jpg
+  image: /assets/images/about/team/board-of-directors/debbie-hudson/cover-debbie-hudson.jpg
+  teaser: /assets/images/about/team/board-of-directors/debbie-hudson/teaser-debbie-hudson.jpg
   caption: "Debbie Hudson - Board Member"
 categories:
   - Team

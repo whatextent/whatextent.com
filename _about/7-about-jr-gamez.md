@@ -4,8 +4,8 @@ excerpt: "Member of the Board of Directors, currently serving ..."
 permalink: /about/jr-gamez/
 author_profile: false
 header:
-  image: /assets/images/about/team/jr-gamez/cover-jr-gamez.jpg
-  teaser: /assets/images/about/team/jr-gamez/teaser-jr-gamez.jpg
+  image: /assets/images/about/team/board-of-directors/jr-gamez/cover-jr-gamez.jpg
+  teaser: /assets/images/about/team/board-of-directors/jr-gamez/teaser-jr-gamez.jpg
   caption: "JR Gamez - Board Member"
 categories:
   - Team

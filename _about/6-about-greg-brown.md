@@ -4,8 +4,8 @@ excerpt: "Member of the Board of Directors, currently serving ..."
 permalink: /about/greg-brown/
 author_profile: false
 header:
-  image: /assets/images/about/team/greg-brown/cover-greg-brown.jpg
-  teaser: /assets/images/about/team/greg-brown/teaser-greg-brown.jpg
+  image: /assets/images/about/team/board-of-directors/greg-brown/cover-greg-brown.jpg
+  teaser: /assets/images/about/team/board-of-directors/greg-brown/teaser-greg-brown.jpg
   caption: "Greg Brown - Board Member"
 categories:
   - Team

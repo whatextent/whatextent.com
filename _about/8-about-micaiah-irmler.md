@@ -4,8 +4,8 @@ excerpt: "Member of the Board of Directors, currently serving ..."
 permalink: /about/micaiah-irmler/
 author_profile: false
 header:
-  image: /assets/images/about/team/micaiah-irmler/cover-micaiah-irmler.jpg
-  teaser: /assets/images/about/team/micaiah-irmler/teaser-micaiah-irmler.jpg
+  image: /assets/images/about/team/board-of-directors/micaiah-irmler/cover-micaiah-irmler.jpg
+  teaser: /assets/images/about/team/board-of-directors/micaiah-irmler/teaser-micaiah-irmler.jpg
   caption: "Micaiah Irmler - Board Member"
 categories:
   - Team

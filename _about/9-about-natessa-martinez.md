@@ -4,8 +4,8 @@ excerpt: "Member of the Board of Directors, currently serving ..."
 permalink: /about/natessa-martinez/
 author_profile: false
 header:
-  image: /assets/images/about/team/natessa-martinez/cover-natessa-martinez.jpg
-  teaser: /assets/images/about/team/natessa-martinez/teaser-natessa-martinez.jpg
+  image: /assets/images/about/team/board-of-directors/natessa-martinez/cover-natessa-martinez.jpg
+  teaser: /assets/images/about/team/board-of-directors/natessa-martinez/teaser-natessa-martinez.jpg
   caption: "Natessa Martinez - Board Member"
 categories:
   - Team
