@@ -21,3 +21,8 @@ Simply use the hashtag `#whatextent` in your posts to show the world the extent 
 
 <hr/>
 *<a href="http://whatextent.com">Project What Extent Inc.</a> is a registered California Nonprofit Public Benefit Corporation (Entity Number C3730422).*
+<hr/>
+
+![Justin Bicycling Across America]({{ "/assets/images/about/team/board-of-directors/justin-too/cover-justin-too.jpg" | absolute_url }}){: .align-center}
+
+{% include nav_list nav="about" %}
