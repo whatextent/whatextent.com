@@ -11,7 +11,7 @@ header:
 
 {% include base_path %}
 
-**Project What Extent** (WE) is a synergistic ecclesiastical social enterprise & platform to **build community** and **empower people**, by doing the things we love and were born to do.
+**Project What Extent** (WE) is a synergistic ecclesiastical social enterprise and platform to **build community** and **empower people**, by doing the things we love and were born to do.
 
 Anyone can join; everyone can make a difference. Together we can make a positive impact on our world with our everyday lives as we pursue our dreams and share our stories. What extent will you go?
 
