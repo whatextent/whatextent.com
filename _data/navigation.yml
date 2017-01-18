@@ -13,11 +13,19 @@ main:
 
 # documentation links
 about:
+  - title: "About WE"
+    url: /about
+    children:
+      - title: "Our Company"
+        url: /about
+      - title: "Our History"
+        url: /about
   - title: "Executive Team"
     children:
       - title: "<strong>CEO</strong> Justin Too"
         url: /about/justin-too
-  - title: "<a href=\"/about/board-of-directors\">Board of Directors"
+  - title: "Board of Directors"
+    url: /about/board-of-directors
     children:
       - title: "<strong>Chairman</strong> Mike Brock"
         url: /about/mike-brock
