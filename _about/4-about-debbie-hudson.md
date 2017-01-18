@@ -22,7 +22,7 @@ tags:
 
 {% include base_path %}
 
-Debbie Hudson serves as a member of our Board of Directors –
+Debbie Hudson serves as a member of our Board of Directors.
 
 She
 

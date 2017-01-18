@@ -22,7 +22,7 @@ tags:
 
 {% include base_path %}
 
-Natessa Martinez serves as a member of our Board of Directors –
+Natessa Martinez serves as a member of our Board of Directors.
 
 He
 

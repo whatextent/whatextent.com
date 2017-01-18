@@ -22,7 +22,7 @@ tags:
 
 {% include base_path %}
 
-Micaiah Irmler serves as a member of our Board of Directors –
+Micaiah Irmler serves as a member of our Board of Directors.
 
 He
 

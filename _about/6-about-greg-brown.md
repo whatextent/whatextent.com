@@ -22,7 +22,7 @@ tags:
 
 {% include base_path %}
 
-Greg Brown serves as a member of our Board of Directors –
+Greg Brown serves as a member of our Board of Directors.
 
 He
 

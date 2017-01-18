@@ -22,7 +22,7 @@ tags:
 
 {% include base_path %}
 
-JR Gamez serves as a member of our Board of Directors –
+JR Gamez serves as a member of our Board of Directors.
 
 He
 

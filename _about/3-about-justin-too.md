@@ -45,7 +45,7 @@ gallery-raam:
 
 {% include base_path %}
 
-[Justin Too](http://justintoo.com) is the visionary founder of [Project What Extent Inc.](http://whatextent.com) and humbly serves as the President and Chief Executive Officer –
+[Justin Too](http://justintoo.com) is the visionary founder of [Project What Extent Inc.](http://whatextent.com) and humbly serves as the President and Chief Executive Officer.
 {: .text-justify}
 
 ![First Board Dinner of Project What Extent](/assets/images/about/team/justin-too/board-dinner.jpg){: .align-center}
@@ -66,7 +66,7 @@ Justin is a compassionate leader and manager who values the discipline of strate
 
 ![Justin Too bicycling across Arizona in 2014 during his A21 Across America anti-trafficking campaign](/assets/images/about/team/justin-too/justin-too-biking-in-arizona.jpg){: .align-center}
 
-As evidence of his character and abilities, [Justin bicycled 3000 miles across the USA to fight human trafficking](http://a21acrossamerica.com) in July 2014, raising over $16,000 in a community-wide campaign.
+As evidence of his character and abilities, [Justin bicycled 3000 miles across the USA to fight human trafficking](http://a21acrossamerica.com) in July 2014, raising close to $20,000 in a community-wide freedom campaign.
 {: .text-justify}
 
 {% include gallery id="gallery-a21" caption="Justin's [A21 Across America campaign](http://a21acrossamerica.com/) in 2014." %}
