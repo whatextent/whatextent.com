@@ -23,4 +23,3 @@ Simply use the hashtag `#whatextent` in your posts to show the world the extent 
 
 <hr/>
 *<a href="http://whatextent.com">Project What Extent Inc.</a> is a registered California Nonprofit Public Benefit Corporation (Entity Number C3730422).*
-<hr/>
